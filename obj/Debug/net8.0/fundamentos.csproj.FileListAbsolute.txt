@@ -1,0 +1,14 @@
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\bin\Debug\net8.0\fundamentos.exe
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\bin\Debug\net8.0\fundamentos.deps.json
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\bin\Debug\net8.0\fundamentos.runtimeconfig.json
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\bin\Debug\net8.0\fundamentos.dll
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\bin\Debug\net8.0\fundamentos.pdb
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\obj\Debug\net8.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfoInputs.cache
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfo.cs
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\obj\Debug\net8.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\obj\Debug\net8.0\fundamentos.dll
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\obj\Debug\net8.0\refint\fundamentos.dll
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\obj\Debug\net8.0\fundamentos.pdb
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\obj\Debug\net8.0\fundamentos.genruntimeconfig.cache
+C:\Users\Ana Cristina\Documents\Projetos\.net\fundamentos\obj\Debug\net8.0\ref\fundamentos.dll
