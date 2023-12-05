@@ -4,7 +4,8 @@ O objetivo do programa é fornecer, através de um menu interativo, funcionalida
 ## Funcionalidades
 
 - Definição dos valores de preço inicial e preço por hora para posterior cálculo do valor que veículos estacionados deverão pagar;
-- que irão reger o quanto, cada uma herdando de uma conta principal. Essas contas possuem os seguintes atributos e métodos:
+- Adição e remoção de placa de veículos;
+- Exibição de lista de veículos cadastrados;
 
 ### Classe Estacionamento
 
